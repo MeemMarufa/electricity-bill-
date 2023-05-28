@@ -31,7 +31,7 @@ The electricity bill system is a project that will allow admin to manage the sys
 ![Screenshot (66)](https://github.com/MeemMarufa/electricity-bill-/assets/101825831/3f8d46cb-6d66-4f3e-bf26-9a8f3452c75c)
 
 ## Developed by 
-marufa aktermeem
-Roll:2007105
-gmail:meem2007105@kuet.ac.bd
+marufa akter meem                
+Roll:2007105                                                              
+gmail:meem2007105@kuet.ac.bd                                             
 
